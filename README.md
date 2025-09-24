@@ -1,4 +1,4 @@
-# 🚖 Proyecto 1 – Pruebas de regresión de Urban Routes  
+# Pruebas de regresión de Urban Routes  
 
 ## 📌 Descripción  
 Urban Routes es una aplicación que permite crear rutas y calcular la duración y precio de un viaje en diferentes tipos de transporte (auto, a pie, taxi, bicicleta, scooter o auto compartido).  
