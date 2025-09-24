@@ -42,7 +42,7 @@ El objetivo fue garantizar que los cambios recientes en la aplicación no afecta
 ---
 
 ## 📎 Documentación  
-📄 https://docs.google.com/spreadsheets/d/1RFdBOuZ6npiwrX-Y-SOSJYBWljd3I2Ie/edit?usp=sharing&ouid=112657294087284506568&rtpof=true&sd=true   
+📄 [[Casos de prueba y reportes en Google Sheets](https://docs.google.com/spreadsheets/d/1RFdBOuZ6npiwrX-Y-SOSJYBWljd3I2Ie/edit?usp=sharing&ouid=112657294087284506568&rtpof=true&sd=true)](#)  
 
 ---
 
